@@ -1,1 +1,2 @@
 # Hierarchical-Clustering-Using-Dendrogram
+This Python project aims to illustrate the clustering of the IRIS dataset using the Dendrogram method. The IRIS dataset comprises 50 samples from three different species of Iris: Iris setosa, Iris virginica, and Iris versicolor. Each sample is described by four features, including the length and width of sepals and petals. By employing the Dendrogram technique, this project demonstrates the hierarchical clustering of the IRIS dataset based on these features.
